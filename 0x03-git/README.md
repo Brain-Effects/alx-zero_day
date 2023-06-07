@@ -1,1 +1,1 @@
-Up_to_date
+echo Up_to_date
